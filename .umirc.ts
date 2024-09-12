@@ -20,7 +20,7 @@ export default defineConfig({
       component: './Home',
     },
     {
-      name: '基础学习',
+      name: '基础教程',
       path: '/basic',
       component: './Basic',
     },
